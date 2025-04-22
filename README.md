@@ -72,7 +72,7 @@ Este projeto é ideal para quem está começando a aprender desenvolvimento web.
 
 ## 📸 Demonstração
 
-![Demonstração do projeto](https://via.placeholder.com/600x300?text=Preview+do+Projeto)
+![Demonstração do projeto](img/tela-projeto.png)
 
 ---
 
