@@ -81,12 +81,11 @@ Este projeto é ideal para quem está começando a aprender desenvolvimento web.
 Aqui estão algumas ideias para expandir o projeto:
 
 - Adicionar a funcionalidade de remover itens específicos da lista.
-- Salvar os itens no armazenamento local do navegador (localStorage).
 - Melhorar o design com animações e transições.
 
 ---
 
-## 🖋️ Autor
+## 🖋️ Autora
 
 Desenvolvido com 💻 e ☕ por Julia Barbosa.
 
